@@ -1,0 +1,26 @@
+Single Responsibility Principle
+Open Closed Principle
+Liskov Substituion Principle
+Interface Segregation Principle
+Dependency Inversion Principle
+
+
+Single Responsibility Principle :
+	Each class or method should have one thing to do. When there is feel of class has two responsibilities than the new class should be made for that.
+
+Open Closed Principle :
+	It states that class or methods should be open for extension but not for modification
+
+Liskov Substitution Principle :
+	It states that derived classes should be able to extend their base classes without changing the behaviour of the base class.
+
+Interface Segregation Principle
+	It states that no client should be forced to depend on the methods that it does not use.
+
+	Large interfaces are splitted into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them. Such shrunken interfaces are also called role interfaces 
+
+
+Dependency Inversion Principle
+	It states that high level modules should not depend on low level modules and both should depend on abstractions.
+
+	
