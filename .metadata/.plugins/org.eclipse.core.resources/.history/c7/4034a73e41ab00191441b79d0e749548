@@ -1,0 +1,14 @@
+package com.example.ocp;
+
+class OCP
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+
+
+
+}
+
+
